@@ -4,11 +4,11 @@ Containers make it a lot easier to develop, deploy, and maintain software. Here 
 
 ## Self Contained Environments
 
-A container packages all of the dependencies to run a specific application. We never have to worry about local package conflicts when running our programs. This prevents “works on my machine” syndrome when working in a team. We can just run the container and have a fully working environment! 
+A container packages all of the dependencies to run a specific application. We never have to worry about local package conflicts when running our programs. This prevents “works on my machine” syndrome when working in a team. We can just run the container and have a fully working environment!
 
 ## Portable
 
-Container execution is independent of the host operating system allowing them to run consistently across different platforms or cloud services. 
+Container execution is independent of the host operating system allowing them to run consistently across different platforms or cloud services.
 
 ## Fast and Efficient
 
@@ -16,7 +16,7 @@ Containers share the host OS kernel and doesn’t need a hypervisor like virtual
 
 ## Convenient Management & Scaling
 
-Every container is isolated and operates independently. Container runtimes and images are also standardized (OCI standard). This allows us to automate container scaling, monitoring, debugging, and management using container orchestration platforms like Kubernetes. 
+Every container is isolated and operates independently. Container runtimes and images are also standardized (OCI standard). This allows us to automate container scaling, monitoring, debugging, and management using container orchestration platforms like Kubernetes.
 
 ## Failure Isolation and Recovery
 
